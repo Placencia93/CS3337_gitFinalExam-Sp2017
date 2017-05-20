@@ -17,6 +17,7 @@
 !Maps/**
 
 !*.txt
+!*.jpg
 
 # MAC HIDDEN FILES
 .DS_Store
